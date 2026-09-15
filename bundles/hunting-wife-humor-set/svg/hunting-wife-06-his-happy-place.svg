@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="8in" height="10in" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#f4ead8"/>
+  <rect x="36" y="36" width="728" height="928" fill="none" stroke="#6b4a32" stroke-width="3"/>
+  <rect x="48" y="48" width="704" height="904" fill="none" stroke="#6b4a32" stroke-width="1"/>
+  <text x="400" y="140" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="6" fill="#8a6a4a">HUNTING WIFE</text>
+  <line x1="220" y1="168" x2="580" y2="168" stroke="#c4a574" stroke-width="1"/>
+  <text y="390" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#3b2a1c" font-style="italic">
+      <tspan x="400" dy="0">His happy place</tspan>
+      <tspan x="400" dy="72">is a tree stand.</tspan>
+  </text>
+  <line x1="220" y1="820" x2="580" y2="820" stroke="#c4a574" stroke-width="1"/>
+  <text x="400" y="860" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#8a6a4a">and hers is the porch light on</text>
+  <text x="400" y="920" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="11" letter-spacing="3" fill="#b08960">STEWARD OF THE KING</text>
+</svg>
